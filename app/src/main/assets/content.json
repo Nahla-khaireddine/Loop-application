@@ -1,0 +1,28 @@
+[
+  {
+    "topline": "San Diego, USA | June 6-7, 2022",
+    "headline": "IEEE WIE ILC",
+    "imageURL": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80",
+    "category": "EVENT",
+    "description": "Launched in 2014, the mission of IEEE WIE ILC is to inspire, engage, and advance women in technology, whether in industry, academia, or government.",
+    "price": "500 $",
+    "location": "San diego convention center",
+    "slides": [
+      "https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80",
+      "https://media.istockphoto.com/photos/happy-people-dance-in-nightclub-party-concert-picture-id1259192924?k=20&m=1259192924&s=612x612&w=0&h=yeJ6pIFl3CrzJs1sci4dnVVpj0diJlP5cfrZR4KbEug="
+    ]
+  },
+  {
+    "topline": "Toronto, Canada | Mar 25, 2022",
+    "headline": "JUSTIN BIEBER TOUR",
+    "imageURL": "https://media.istockphoto.com/photos/happy-people-dance-in-nightclub-party-concert-picture-id1259192924?k=20&m=1259192924&s=612x612&w=0&h=yeJ6pIFl3CrzJs1sci4dnVVpj0diJlP5cfrZR4KbEug=",
+    "category": "EVENT",
+    "description": "",
+    "price": "500 $",
+    "location": "San diego convention center",
+    "slides": [
+      "https://media.istockphoto.com/photos/happy-people-dance-in-nightclub-party-concert-picture-id1259192924?k=20&m=1259192924&s=612x612&w=0&h=yeJ6pIFl3CrzJs1sci4dnVVpj0diJlP5cfrZR4KbEug=",
+      "https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80"
+    ]
+  }
+]
